@@ -1,7 +1,7 @@
 {
   "name": "@paescuj/eslint-plugin-stylelint",
   "type": "module",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "packageManager": "pnpm@9.15.2",
   "description": "Stylelint integration into ESLint",
   "author": "Pascal Jufer <pascal-jufer@bluewin.ch>",
