@@ -1,6 +1,6 @@
 // @ts-check
 import antfu from '@antfu/eslint-config';
-import stylelint from 'eslint-plugin-stylelint';
+import stylelint from '@paescuj/eslint-plugin-stylelint';
 
 export default antfu(
   {

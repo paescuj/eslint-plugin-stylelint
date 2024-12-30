@@ -1,3 +1,3 @@
-# eslint-plugin-stylelint
+# @paescuj/eslint-plugin-stylelint
 
 WIP
